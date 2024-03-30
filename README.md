@@ -1,7 +1,16 @@
-# component-zen
+# Component Zen
 
-To install dependencies:
+### Introduction
+Assist developers in immersive component writing
 
+### What Can I？
+- inject global css
+- inject data that matches variable types
+
+### What Can‘t I?
+- provide project data
+
+### How to start it?
 ```bash
 bun install
 ```
